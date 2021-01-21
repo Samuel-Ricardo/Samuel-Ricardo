@@ -2,19 +2,19 @@
 
 I am a Brazilian :brazil: full stack programmer with the incredible secret ability of programmers :shushing_face:
 
-and which one is it? 	:thinking:
+And which one is it? 	:thinking:
 
-wait a second, don't you know? :flushed:  no panic, I can explain ... :shipit:
+Wait a second, don't you know? :flushed:  no panic, I can explain ... :shipit:
 
-we who unlock :unlock: the barriers between the real and the imaginary, we who convert dreams into reality and, of course...
+We who unlock :unlock: the barriers between the real and the imaginary, we who convert dreams into reality and of course...
 
-coffee :coffee: into solutions :flashlight:
+Coffee :coffee: into solutions :flashlight:
 
 <img align="bottom" width="200px" src= "https://media.giphy.com/media/ROyijmazFKRc4/giphy.gif" />
 
 #
 
-by the way, since you found me, take your best coffee cup, and let's explore a little bit of my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px">
+By the way, since you found me, take your best coffee cup, and let's explore a little bit of my world  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
 
 #
 
