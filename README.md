@@ -20,9 +20,6 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 ### Maybe You Have Some Questions? Like....
 
-
-<img width="380px" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?">
-
 <img width="320px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ricardo&layout=compact">
 
 </br>
@@ -72,19 +69,19 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 <img  width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img  width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> <img  width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
-</br>
-</br>
-</br>
 
-Congratulations On Getting Here
-</br>
-![VisitorCount](https://profile-counter.glitch.me/Samuel-Ricardo/count.svg)
 
 <!--
 [![Cartão ReadMe](https://github-readme-stats.vercel.app/api/pin/?Username=Samuel-Ricardo&repo=Netflix-Clone)](https://github.com/Samuel-Ricardo/Netflix-Clone)
 
+<img width="380px" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?">
+
 <!--
 **Samuel-Ricardo/Samuel-Ricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Congratulations On Getting Here
+</br>
+![VisitorCount](https://profile-counter.glitch.me/Samuel-Ricardo/count.svg)
 
 Here are some ideas to get you started:
 
