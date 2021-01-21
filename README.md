@@ -38,7 +38,7 @@ by the way, since you found me, take your best coffee cup, and let's explore a l
 
 #### What Can You Do? 
 
-> "Look, Simba, everything the Sun touches is our kingdom"
+> "Look, Visitor, Everything The Sun Touches Are Our Possibilities"
 
  <img align="top" whidth="10px" heigth="10px" src="http://www.islandofbob.com/uploads/1/2/9/1/12913710/6306498.jpg?188" />
 
