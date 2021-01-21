@@ -47,7 +47,7 @@ by the way, since you found me, take your best coffee cup, and let's explore a l
 #### My Skills:
 
 
-<img align="right" width="300px" src="https://github.com/Samuel-Ricardo/Samuel-Ricardo/blob/master/vs.jpeg">
+<img align="right" width="250px" height="420px" src="https://github.com/Samuel-Ricardo/Samuel-Ricardo/blob/master/vs.jpeg">
 
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img  width="80px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
 
