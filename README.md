@@ -21,9 +21,9 @@ by the way, since you found me, take your best coffee cup, and let's explore a l
 ### Maybe You Have Some Questions? Like....
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?)
+<img align="left" width="400px" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ricardo&layout=compact)](https://github.com/Samuel-Ricardo/Samuel-Ricardo)
+<img align="left" width="400px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ricardo&layout=compact">
 
 
 
