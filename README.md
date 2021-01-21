@@ -20,6 +20,8 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 ### Maybe You Have Some Questions? Like....
 
+<img width="380px" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?">
+
 <img width="320px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ricardo&layout=compact">
 
 </br>
@@ -44,7 +46,6 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 #### My Skills:
 
 
-<img align="right" width="250px" height="420px" src="https://github.com/Samuel-Ricardo/Samuel-Ricardo/blob/master/vs.jpeg">
 
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img  width="80px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
 
@@ -74,7 +75,8 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 <!--
 [![Cartão ReadMe](https://github-readme-stats.vercel.app/api/pin/?Username=Samuel-Ricardo&repo=Netflix-Clone)](https://github.com/Samuel-Ricardo/Netflix-Clone)
 
-<img width="380px" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?">
+
+<img align="right" width="250px" height="420px" src="https://github.com/Samuel-Ricardo/Samuel-Ricardo/blob/master/vs.jpeg">
 
 <!--
 **Samuel-Ricardo/Samuel-Ricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
