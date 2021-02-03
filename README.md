@@ -1,4 +1,4 @@
-# Hi You find me! :upside_down_face: 👋
+# Hi You found me! :upside_down_face: 👋
 
 I am a Brazilian :brazil: full stack programmer with the incredible secret ability of programmers :shushing_face:
 
