@@ -1,6 +1,6 @@
 # Hi You found me! :upside_down_face: 👋
 
-I am a Brazilian :brazil: full stack programmer with the incredible secret ability of programmers :shushing_face:
+I am Brazilian :brazil: full stack programmer with the incredible secret ability of programmers :shushing_face:
 
 And which one is it? 	:thinking:
 
