@@ -69,7 +69,7 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 </br>
 
-<img  width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img  width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> <img  width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img  width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img  width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> <img  width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> <img  width="50px" src="https://github.com/Samuel-Ricardo/Netflix-Clone--Home-Page/blob/master/readme_files/aws.svg">
 
 
 
