@@ -39,7 +39,7 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 > "Look, Visitor, Everything The Sun Touches Are Our Possibilities"
 
- <img align="top" whidth="10px" heigth="10px" src="http://www.islandofbob.com/uploads/1/2/9/1/12913710/6306498.jpg?188" />
+ <img align="top" whidth="10px" heigth="10px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2F44.media.tumblr.com%2Fe17edd536f5acb99e13926dce2b0c63f%2Ftumblr_mp61qmv59I1sx2peuo1_500.gif&imgrefurl=https%3A%2F%2Fcunhataipora.tumblr.com%2Fpost%2F68122619663&tbnid=kCA5LiTjVNnYNM&vet=12ahUKEwi6j_D3_6T1AhWSD7kGHfOxDWYQMygBegQIARBB..i&docid=M6Kpp5AVfLJ3oM&w=500&h=642&itg=1&q=at%C3%A9%20onde%20o%20sol%20toca%20&ved=2ahUKEwi6j_D3_6T1AhWSD7kGHfOxDWYQMygBegQIARBB" />
 
 #
 
