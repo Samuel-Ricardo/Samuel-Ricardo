@@ -46,7 +46,11 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 <p>
 
-# Where Find me?
+# 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0022ff&size=35&center=true&vCenter=true&width=1000&lines=Where+Find+me?)](https://git.io/typing-svg)
+
+#
 
 [![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-ricardo-cabral/)
 [![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=red&style=for-the-badge&logo=Github)](https://github.com/Samuel-Ricardo)
@@ -55,9 +59,9 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 <p>
 
- <h1> What Can You Do? </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0022ff&size=35&center=true&vCenter=true&width=1000&lines=What+can+you+do+🧐?;Look+Visitor+Everything+The+Sun+🌄+Touches+Are+Our+Possibilities)](https://git.io/typing-svg)
 
-> "Look, Visitor, Everything The Sun Touches Are Our Possibilities"
+> "Look, Visitor, Everything The Sun 🌄 Touches Are Our Possibilities"
 
 <p align="center">
 
