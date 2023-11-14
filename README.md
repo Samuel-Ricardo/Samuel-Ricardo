@@ -104,11 +104,7 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> &nbsp;
  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> &nbsp;
  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> &nbsp;
- <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> &nbsp;
  <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"> &nbsp;
- <img width="50px" src="https://www.svgrepo.com/show/374167/vite.svg" /> &nbsp;
-
-
 
 </br>
 
@@ -118,6 +114,7 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
+ <img width="50px" src="https://www.svgrepo.com/show/374167/vite.svg" /> &nbsp;
 
 </br>
 
@@ -142,6 +139,7 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 <img width="50px" src="https://github.com/Samuel-Ricardo/Netflix-Clone--Home-Page/blob/master/readme_files/aws.svg"> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
 
 </br>
 
@@ -165,6 +163,17 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 </br>
 
 # Others Techs 
+
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> &nbsp;
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"> &nbsp;
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> &nbsp;
+ <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> &nbsp;
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg"> &nbsp;
+ <img width="50px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"> &nbsp;
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> &nbsp;
+ <img width="50px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"> &nbsp;
+ <img width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> &nbsp;
+ <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> &nbsp;
  
 
 
