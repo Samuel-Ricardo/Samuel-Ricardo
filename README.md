@@ -96,33 +96,80 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 </p>
 
-#### My Skills:
+# Core
 
-
-
-<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">  <img  width="80px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"> 
-
-
-
-</br>
-
-#
-
-
-</br>
-
-<img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> <img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"> <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"> <img  width="45px" src="https://hexdocs.pm/phoenix/assets/logo.png"> <img  width="45px" src="https://github.com/expo/expo/raw/master/style/banner.png"> <img  width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"> <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
+ <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+ <img width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp;
+ <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> &nbsp;
+ <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> &nbsp;
+ <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> &nbsp;
+ <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> &nbsp;
+ <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> &nbsp;
+ <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"> &nbsp;
+ <img width="50px" src="https://www.svgrepo.com/show/374167/vite.svg" /> &nbsp;
 
 
 
 </br>
+
+# Frontend 
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
+
 </br>
 
-#
+# Backend 
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> &nbsp;
 
 </br>
 
-<img  width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img  width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> <img  width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> <img  width="50px" src="https://github.com/Samuel-Ricardo/Netflix-Clone--Home-Page/blob/master/readme_files/aws.svg">
+# Mobile 
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
+
+</br>
+
+# Devops 
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> &nbsp;
+<img width="50px" src="https://github.com/Samuel-Ricardo/Netflix-Clone--Home-Page/blob/master/readme_files/aws.svg"> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /> &nbsp;
+
+</br>
+
+# Database 
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> &nbsp;
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> &nbsp;
+
+</br>
+
+# Testing
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> &nbsp;
+<img width="50px" src="https://junit.org/junit5/assets/img/junit5-logo.png" /> &nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"> &nbsp;
+<img width="50px" src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" /> &nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> &nbsp;
+
+</br>
+
+# Others Techs 
+ 
+
+
+
+</br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0022ff&height=120&section=footer"/>
 
