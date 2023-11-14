@@ -1,5 +1,13 @@
-# Hi You found me! :upside_down_face: 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0022ff&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0022ff&size=35&center=true&vCenter=true&width=1000&lines=HI+You+Found+me!+🙃+👋;+My+name+is+Samuel+Ricardo;I'm+19+years+old;I'm+from+Brazil+🇧🇷;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+#
+
+
+<img align="right" width="240px" src= "https://media.giphy.com/media/ROyijmazFKRc4/giphy.gif" />
+
+<p align="left">
 I am Brazilian :brazil: full stack programmer with the incredible secret ability of programmers :shushing_face:
 
 And which one is it? 	:thinking:
@@ -10,11 +18,12 @@ We who unlock :unlock: the barriers between the real and the imaginary, we who c
 
 Coffee :coffee: into solutions :flashlight:
 
-<img align="bottom" width="200px" src= "https://media.giphy.com/media/ROyijmazFKRc4/giphy.gif" />
+</p>
+
 
 #
 
-By the way, since you found me, take your best coffee cup, and let's explore a little bit of my world  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15px">
+By the way, since you found me, take your best coffee cup, and let's explore a little bit of my world  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 
 #
 
@@ -30,10 +39,6 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 [![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-ricardo-cabral/)
 [![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=red&style=for-the-badge&logo=Github)](https://github.com/Samuel-Ricardo)
-
-[<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/samuel-ricardo-cabral/)
-[<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" >](https://github.com/Samuel-Ricardo)
-
 
 #### What Can You Do? 
 
@@ -71,7 +76,7 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 <img  width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img  width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> <img  width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> <img  width="50px" src="https://github.com/Samuel-Ricardo/Netflix-Clone--Home-Page/blob/master/readme_files/aws.svg">
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0022ff&height=120&section=footer"/>
 
 <!--
 [![Cartão ReadMe](https://github-readme-stats.vercel.app/api/pin/?Username=Samuel-Ricardo&repo=Netflix-Clone)](https://github.com/Samuel-Ricardo/Netflix-Clone)
