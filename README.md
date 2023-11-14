@@ -46,18 +46,45 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 <p>
 
-#
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0022ff&size=35&center=true&vCenter=true&width=1000&lines=Where+find+me?)](https://git.io/typing-svg)
+# Where Find me?
 
 [![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-ricardo-cabral/)
 [![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=red&style=for-the-badge&logo=Github)](https://github.com/Samuel-Ricardo)
 
-#### What Can You Do? 
+<br/>
+
+<p>
+
+ <h1> What Can You Do? </h1>
 
 > "Look, Visitor, Everything The Sun Touches Are Our Possibilities"
 
- <img align="top" width="250px" src="https://44.media.tumblr.com/e17edd536f5acb99e13926dce2b0c63f/tumblr_mp61qmv59I1sx2peuo1_500.gif" />
+<p align="center">
+
+ <img align="right" width="250px" src="https://44.media.tumblr.com/e17edd536f5acb99e13926dce2b0c63f/tumblr_mp61qmv59I1sx2peuo1_500.gif" />
+
+ <p align="right">
+  
+  - 🔭 I’m currently working on [Twitter Clone](https://github.com/Samuel-Ricardo/twitter_clone)
+  
+  - 🌱 I’m currently learning **Software Architeture**
+  
+  - 🤝 I’m looking for collaborate with **Open Source**
+  
+  - 👨‍💻 All of my projects are available at [https://github.com/Samuel-Ricardo?tab=repositories](https://github.com/Samuel-Ricardo?tab=repositories)
+  
+  - 📝 I regularly write articles on [https://www.linkedin.com/in/samuel-ricardo/recent-activity/articles/](https://www.linkedin.com/in/samuel-ricardo/recent-activity/articles/)
+  
+  - 💬 Ask me about **React, Typescript, Node, Java, Kotlin**
+  
+  - 📫 How to reach me **samuelricardoofficial@gmail.com**
+  
+  - ⚡ Fun fact **I Love classical music :)**
+    
+ </p>
+</p>
+
+</p>
 
 #
 
