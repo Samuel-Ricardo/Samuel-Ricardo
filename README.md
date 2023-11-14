@@ -38,7 +38,12 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
  </br>
 
- <img width=60% src="https://github-readme-streak-stats.herokuapp.com?user=Samuel-Ricardo&theme=radical&mode=weekly" />
+ <img align="center" width=60% src="https://github-readme-streak-stats.herokuapp.com?user=Samuel-Ricardo&theme=radical&mode=weekly" />
+
+</br>
+
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuel-ricardo" alt="samuel-ricardo" /></a> </p>
+
 
 </p>
 
