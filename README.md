@@ -27,15 +27,28 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 #
 
-### Maybe You Have Some Questions? Like....
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0022ff&size=35&center=true&vCenter=true&width=1000&lines=Maybe+you+have+some+questions+Like...)](https://git.io/typing-svg)
+#
 
-<img width="380px" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?">
+<p align="center" >
+ 
+ <img width="50%" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=Samuel-Ricardo&show_icons=true&theme=radical&count_private=true&custom_title=What%20Has%20Been%20Happening%20Here%20Lately?"/>
+ 
+ <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ricardo&show_icons=true&theme=radical&layout=compact" />
 
-<img width="320px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Ricardo&layout=compact">
+ </br>
+
+ <img width=60% src="https://github-readme-streak-stats.herokuapp.com?user=Samuel-Ricardo&theme=radical&mode=weekly" />
+
+</p>
 
 </br>
 
-### Where Find Me?
+<p>
+
+#
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0022ff&size=35&center=true&vCenter=true&width=1000&lines=Where+find+me?)](https://git.io/typing-svg)
 
 [![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-ricardo-cabral/)
 [![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=red&style=for-the-badge&logo=Github)](https://github.com/Samuel-Ricardo)
@@ -47,6 +60,8 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
  <img align="top" width="250px" src="https://44.media.tumblr.com/e17edd536f5acb99e13926dce2b0c63f/tumblr_mp61qmv59I1sx2peuo1_500.gif" />
 
 #
+
+</p>
 
 #### My Skills:
 
