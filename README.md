@@ -54,8 +54,23 @@ By the way, since you found me, take your best coffee cup, and let's explore a l
 
 #
 
-[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=blue&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/samuel-ricardo-cabral/)
-[![Badge](https://img.shields.io/static/v1?label=Samuel&message=Ricardo&color=red&style=for-the-badge&logo=Github)](https://github.com/Samuel-Ricardo)
+<h1>
+  <a herf='https://github.com/Samuel-Ricardo'>
+    <img src='https://img.shields.io/static/v1?label=&message=Samuel%20Ricardo&color=black&style=for-the-badge&logo=GITHUB'> 
+  </a>
+  
+  <a herf='https://www.instagram.com/samuel_ricardo.ex/'>
+    <img src='https://img.shields.io/static/v1?label=&message=Samuel.ex&color=black&style=for-the-badge&logo=instagram'> 
+  </a>
+  
+  <a herf='https://twitter.com/SamuelR84144340'>
+    <img src='https://img.shields.io/static/v1?label=&message=Samuel%20Ricardo&color=black&style=for-the-badge&logo=twitter'> 
+  </a>
+  
+   <a herf='https://www.linkedin.com/in/samuel-ricardo/'>
+    <img src='https://img.shields.io/static/v1?label=&message=Samuel%20Ricardo&color=black&style=for-the-badge&logo=LinkedIn'> 
+  </a>
+</h1>
 
 <br/>
 
